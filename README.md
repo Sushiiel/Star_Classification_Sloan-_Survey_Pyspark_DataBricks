@@ -17,6 +17,12 @@ This project focuses on classifying stars based on their properties and visualiz
 1. Clone the repository:
    ```sh
    git clone https://github.com/Sushiiel/Star_Classification_Sloan-_Survey_Pyspark_DataBricks.git
+## Dashboard Published
+
+[Published](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2017367421879116/3717243548616332/4926138516015279/latest.html)
+
+
+
 ## Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/Sushiiel/Star_Classification_Sloan-_Survey_Pyspark_DataBricks/blob/main/Files/pic3.png)
